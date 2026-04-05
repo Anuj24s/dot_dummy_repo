@@ -9,3 +9,5 @@
 4. git push -u origin master
 	4.1. ugername? -> Anuj24s
 	4.2. påssword? -> token
+
+add this to the dot_dummy_repo
